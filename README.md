@@ -1,8 +1,10 @@
 ## my magic 8-ball project
 
-###App Icon
+### App Icon
+
 ![app](launchScreenImage.png)
 
-###User Interface
+### User Interface
+
 ![interface](interface.png)
 
